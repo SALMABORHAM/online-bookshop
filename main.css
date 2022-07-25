@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(5, 53, 99);
+  }
+  
+  table td {
+    vertical-align: top;
+    font-size: 25px;
+    height: 7%;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  a {
+    color: rgb(247, 102, 235);
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  #ifr {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    border: none;
+    margin: 0;
+    height: 93%;
+    margin-top: 50px;
+  }
+  

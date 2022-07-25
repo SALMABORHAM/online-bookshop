@@ -1,0 +1,27 @@
+html {
+    background-color: rgba(234, 196, 243, 0.801);
+  }
+  body {
+    width: 100%;
+    height: 100%;
+    color: rgb(0, 0, 0);
+    line-height: 2em;
+  }
+  a {
+    color: #03222e;
+    font-size: 25px;
+    text-decoration: none;
+  }
+  ul li {
+    font-size: large;
+  }
+  .box {
+    padding: 44px;
+  }
+  h1 {
+    color: #750075;
+    text-align: center;
+    font-size: 44pt;
+    text-shadow: rgb(255, 255, 255) 0px 0px 4px;
+  }
+  

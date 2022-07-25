@@ -1,0 +1,32 @@
+html {
+    background: rgb(230, 197, 224);
+  }
+  
+  form label {
+    color: rgb(216, 0, 151);
+    font-size: 24pt;
+  }
+  h1 { font : 28pt bolder;
+     color:rgb(39, 0, 51);
+  }
+  .box input[type="text"],
+  input[type="date"],
+  input[type="email"] {
+    border: 0;
+    font-size: 20px;
+    background: none;
+    font:22pt bold;
+    text-align: center;
+    border: 3px solid rgb(240, 140, 187);
+   
+    color: rgb(0, 0, 0);
+  }
+  .box input[type="submit"] {
+    border: 0;
+    background-color: rgb(247, 82, 164);
+   
+    text-align: center;
+    color: black;
+    font: 20pt bold;
+    
+  }  

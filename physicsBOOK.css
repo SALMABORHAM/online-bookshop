@@ -1,0 +1,49 @@
+html {
+  background-color: rgb(3, 41, 43);
+  color: rgb(4, 87, 112);
+  line-height: 3em;
+}
+.hig {
+  color: rgb(233, 223, 229);    
+}
+li {
+  color: rgb(252, 0, 0);
+}
+h1 {
+  font-size: 38px;
+  font-weight: 1000;
+  text-shadow: rgb(204, 209, 134) 1px 1px 1px;
+  color: rgb(136, 252, 252);
+}
+#im {
+  width: 300px;
+  box-shadow: rgb(241, 211, 76) 1px 1px 70px;
+
+}
+table,
+td {
+font-size: 20pt;
+}
+
+td {
+width: 50%;
+}
+
+#txt{
+  text-align: left;
+  padding-left:30pt;
+}
+
+#pic {
+vertical-align: center;
+padding-left:80pt;
+}
+#btn {
+  text-align: center;
+}
+input[type="button"] {
+  border: 4;
+  color: rgb(77, 5, 47);
+  font-size: 25pt;
+  border-color: rgb(10, 8, 9);
+}
